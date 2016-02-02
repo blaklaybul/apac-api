@@ -1,0 +1,5 @@
+name: apac-api
+dependencies:
+- python
+- networkx
+- flask
